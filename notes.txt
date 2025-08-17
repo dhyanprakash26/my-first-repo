@@ -1,4 +1,5 @@
-Hello, Git!
+Hello, git!
 This is my first repo.
 Pushing to GitHub soon.
 Added a new line.
+This line was edited into it
